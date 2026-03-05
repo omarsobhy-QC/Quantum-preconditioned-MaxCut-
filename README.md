@@ -4,8 +4,7 @@
 ---
 
 ## Overview
-
-We propose a scalable hybrid quantum-classical framework for solving large weighted Max-Cut instances under realistic NISQ hardware constraints.
+This repository proposes a scalable hybrid quantum-classical framework for solving large weighted Max-Cut instances under realistic NISQ hardware constraints.
 
 Our approach combines:
 
@@ -136,3 +135,4 @@ Instead of scaling QAOA depth beyond hardware limits, we demonstrate that:
 
 Hybrid quantum preconditioning + classical refinement  
 provides scalable performance while remaining hardware-aware.
+
