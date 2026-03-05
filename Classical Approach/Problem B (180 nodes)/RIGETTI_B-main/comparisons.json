@@ -1,0 +1,22 @@
+{
+  "rows": [
+    {
+      "name": "Random best-of-2000",
+      "cut": 4652.644135093516,
+      "ratio": 0.6232020399427067,
+      "runtime_sec": 0.020093202590942383
+    },
+    {
+      "name": "Greedy hillclimb (24 starts)",
+      "cut": 6732.8774915051645,
+      "ratio": 0.9018405159641587,
+      "runtime_sec": 0.004206180572509766
+    },
+    {
+      "name": "LoopEi (Tabu+Schedule+Relink+MicroLNS)",
+      "cut": 7099.571726101166,
+      "ratio": 0.9509576606242809,
+      "runtime_sec": 16.575210571289062
+    }
+  ]
+}

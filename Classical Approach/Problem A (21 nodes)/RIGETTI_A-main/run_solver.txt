@@ -1,0 +1,2 @@
+pip install qiskit qiskit-optimization
+python qaoa_component.py
