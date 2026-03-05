@@ -1,5 +1,5 @@
 # Hybrid Quantum-Classical Solver for Large-Scale Weighted Max-Cut  
-## Rigetti Qvolution Hackathon 2026
+## This was made for Rigetti Qvolution Hackathon 2026
 
 ---
 
@@ -135,4 +135,5 @@ Instead of scaling QAOA depth beyond hardware limits, we demonstrate that:
 
 Hybrid quantum preconditioning + classical refinement  
 provides scalable performance while remaining hardware-aware.
+
 
